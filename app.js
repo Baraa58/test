@@ -1,0 +1,11 @@
+let name = prompt('What is your name ?');
+//alert('hello ' + name );
+alert(`hello ${name}`);
+let age = prompt('What is your age ?');
+ alert(`Nice age ${age}`);
+let town = prompt('Where do you live ?');
+alert (`welcome from ${town}`);
+let food = prompt(`what is your favourite food?`);
+alert(`oh me too ${food}`);
+let web = prompt('Are you interested in our website');
+alert(`nice to meet you `);
